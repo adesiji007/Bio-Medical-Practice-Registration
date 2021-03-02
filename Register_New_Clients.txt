@@ -1,0 +1,11 @@
+Registration of new clients to the Bio-Medical clinic:
+
+
+Register through log-in
+Add your name, address, age, phone number
+Create a reference number
+Book an appointment
+Create an appointment date
+Watch video of the new events
+Store the clients information on the database
+Create, Edit, Modify and Save
